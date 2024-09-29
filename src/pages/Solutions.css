@@ -1,0 +1,20 @@
+.solutions-page {
+    width: 75%;
+    padding: 20px;
+    background-color: #1c1c1c;
+    border-radius: 8px;
+  }
+  
+  .solutions-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .solutions-list li {
+    margin-bottom: 10px;
+  }
+  
+  h1, h2 {
+    color: white;
+  }
+  

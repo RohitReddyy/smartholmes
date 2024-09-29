@@ -1,0 +1,13 @@
+.products-page {
+    padding: 20px;
+  }
+  
+  .product-list {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    height: 450px;
+    overflow: scroll;
+  }
+  

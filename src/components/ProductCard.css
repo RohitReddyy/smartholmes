@@ -1,0 +1,32 @@
+.product-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .product-card h2 {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  .product-card p {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .view-details {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .view-details:hover {
+    background-color: #0056b3;
+  }
+  
